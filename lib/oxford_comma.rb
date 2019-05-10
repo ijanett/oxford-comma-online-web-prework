@@ -7,6 +7,6 @@ end
 #   elsif array.length >=3
 #     array.join (" , ")
 #   else
-# 
+#
 #   end
 # end
