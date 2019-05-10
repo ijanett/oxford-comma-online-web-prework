@@ -7,5 +7,5 @@ def oxford_comma(two_element_array)
 end
 
 def oxford_comma(three_element_array)
-  three_element_array.join(" , " << " and ")
+  three_element_array.join(" , and ")
 end
