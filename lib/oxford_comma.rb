@@ -8,3 +8,4 @@ end
 
 def oxford_comma(three_element_array)
   three_element_array.join(" , " << " and ")
+end
